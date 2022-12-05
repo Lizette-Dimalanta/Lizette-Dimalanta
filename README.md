@@ -1,6 +1,8 @@
-Hi there! I'm Lizette. ✨
+# Hi there! I'm Lizette. ✨
 
-I'm a current student of the accelerated Full-Stack Web Development Bootcamp at Coder Academy.
+Current student of the Full-Stack Web Development Bootcamp at Coder Academy.
+
+### Find out more!
 
 [LinkedIn](https://www.linkedin.com/in/lizettedimalanta/)
 
