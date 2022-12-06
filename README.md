@@ -2,11 +2,14 @@
 
 Current student of the Full-Stack Web Development Bootcamp at Coder Academy.
 
-### Find out more!
 
-[LinkedIn](https://www.linkedin.com/in/lizettedimalanta/)
+### _**More about me..**_ 💭
 
-[Portfolio (In Progress)](https://630f5c86dd884a0e2997fad9--lizettedimalanta.netlify.app/index.html)
+---
+
+✧ [**LINKEDIN**](https://www.linkedin.com/in/lizettedimalanta/)
+
+✧ [**PORTFOLIO** _(In Progress)_](https://630f5c86dd884a0e2997fad9--lizettedimalanta.netlify.app/index.html)
 
 <!--
 **Lizette-Dimalanta/Lizette-Dimalanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
