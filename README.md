@@ -1,15 +1,14 @@
 # Hi there! I'm Lizette. ✨
 
-Current student of the Full-Stack Web Development Bootcamp at Coder Academy.
+Graduate of the Full-Stack Web Development Bootcamp at Coder Academy (AIT).
 
+[![Lizette's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizette-Dimalanta&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### _**More about me..**_ 💭
-
----
+## _**More about me..**_ 💭
 
 ✧ [**LINKEDIN**](https://www.linkedin.com/in/lizettedimalanta/)
 
-✧ [**PORTFOLIO** _(In Progress)_](https://630f5c86dd884a0e2997fad9--lizettedimalanta.netlify.app/index.html)
+✧ [**PORTFOLIO** _(In Revision)_](https://630f5c86dd884a0e2997fad9--lizettedimalanta.netlify.app/index.html)
 
 <!--
 **Lizette-Dimalanta/Lizette-Dimalanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
