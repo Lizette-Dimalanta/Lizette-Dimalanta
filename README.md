@@ -2,12 +2,7 @@
 
 # Hi there! I'm Lizette. ✨
 
-Graduate of the Full-Stack Web Development Bootcamp at Coder Academy (AIT).
-
-<!-- [![Lizette's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizette-dimalanta&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lizette-Dimalanta&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
-
+Diversity in Tech scholarship recipient and graduate of the Full-Stack Web Development Bootcamp at Coder Academy (AIT).
 
 
 ### Tech Stack:
@@ -16,13 +11,13 @@ HTML | CSS | Python | Flask | PostgreSQL | Javascript | MERN (MongoDB | Express 
 
 ### Software:
 
-VSCode, Figma, AdobeXD
+VSCode, Figma, AdobeXD, Adobe Photoshop
 
 ## _**More about me..**_ 💭
 
-✧ [**LINKEDIN**](https://www.linkedin.com/in/lizettedimalanta/)
+✧ [**LinkedIn**](https://www.linkedin.com/in/lizettedimalanta/)
 
-✧ [**PORTFOLIO** _(In Revision)_](https://630f5c86dd884a0e2997fad9--lizettedimalanta.netlify.app/index.html)
+✧ [**Portfolio**](https://cosmic-cascaron-f62bf7.netlify.app/)
 
 <!--
 
