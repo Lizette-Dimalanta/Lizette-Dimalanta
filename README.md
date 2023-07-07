@@ -4,7 +4,7 @@
 
 Diversity in Tech scholarship recipient and graduate of the Full-Stack Web Development Bootcamp at Coder Academy (AIT).
 
-### Languages & Frameworks:
+## Languages & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 50px;" />
@@ -21,7 +21,7 @@ Diversity in Tech scholarship recipient and graduate of the Full-Stack Web Devel
 
 HTML | CSS | Python | Flask | PostgreSQL | SQLAlchemy | Javascript | MERN (MongoDB | Express | React | Node.js)
 
-### Styling:
+## Styling
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="width: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 50px;" />
@@ -29,16 +29,16 @@ HTML | CSS | Python | Flask | PostgreSQL | SQLAlchemy | Javascript | MERN (Mongo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width: 50px;" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="width: 50px;" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="width: 50px;" /> -->
 </p>     
 
-Adobe Xd | Adobe Photoshop | Canva | Figma | Bootstrap | Tailwind CSS | Devicon
+Adobe Xd | Adobe Photoshop | Canva | Figma | Bootstrap | Tailwind CSS
 
-### E-Commerce
+## E-Commerce
 
 Meta Business Suite (Facebook / Instagram) | Shopify | Amazon Seller | Ebay
 
-### Other:
+## Other
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="width: 50px;" />       
